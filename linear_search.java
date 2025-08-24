@@ -14,7 +14,7 @@ public class linear_search {
         int e=sc.nextInt();
         for(int i=0;i<arr.length;i++){
             if(arr[i]==e){
-                System.out.println("search element is "+e+" on "+i);
+                System.out.println("search element is "+e+"found at index: "+i);
             break;}
         }
     }

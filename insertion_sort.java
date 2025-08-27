@@ -15,7 +15,7 @@ class insertion_sort{
        }
      }
       public static void main(String[] args) {
-        int a[]={15,0,3,4,0,2,6};
+        int a[]={15,5 ,6 ,10 ,28 ,36 ,5};
 
         insertion_sort(a);
        
